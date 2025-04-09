@@ -4,4 +4,4 @@ def word(text):
   elif len(text) < 6:
     print(f"This {text} has less than 6 charackters")
 
-word("Hello"
+word("Hello")
