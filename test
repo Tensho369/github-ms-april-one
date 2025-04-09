@@ -3,3 +3,5 @@ def word(text):
     print(f"The {text} has more than 6 charackters")
   elif len(text) < 6:
     print(f"This {text} has less than 6 charackters")
+
+word("Hello"
